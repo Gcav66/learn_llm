@@ -1,0 +1,4 @@
+#py310_micrograd
+micrograd
+matplotlib
+graphviz
